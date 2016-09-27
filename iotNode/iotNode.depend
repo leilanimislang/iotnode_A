@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475007985 source:c:\users\staff\desktop\portablegit-2.10.0-32-bit.7z\iotnode_a\iotnode\main.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1475007610 c:\users\staff\desktop\portablegit-2.10.0-32-bit.7z\iotnode_a\iotnode\include\iotdataqueue.h
+
