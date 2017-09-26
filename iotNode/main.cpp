@@ -16,7 +16,7 @@ int main()
 
     temperature.qput(20);
     humidity.qput(1);
-
+    //this is a comment
     cout << "Contents of Temperature queue: ";
 
     cout << temperature.qget() << " ";
